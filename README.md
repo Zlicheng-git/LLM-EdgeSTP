@@ -1,7 +1,7 @@
 # LLM-EdgeSTP
 A Large Language Model-Empowered Approach to Trajectory Prediction for Edge Deployment on Ships
 
-LLM-EdgeSTP 是一个面向船舶轨迹预测（Ship Trajectory Prediction, STP）任务、融合AIS轨迹数据与海事文本知识、并支持边缘设备部署的大语言模型（LLM）框架。该系统通过跨模态推理，将连续的 AIS 轨迹与海事语义知识统一建模，显著提升了在复杂航行场景下的预测精度与工程实用性。
+  LLM-EdgeSTP 是一个面向船舶轨迹预测（Ship Trajectory Prediction, STP）任务、融合AIS轨迹数据与海事文本知识、并支持边缘设备部署的大语言模型（LLM）框架。该系统通过跨模态推理，将连续的 AIS 轨迹与海事语义知识统一建模，显著提升了在复杂航行场景下的预测精度与工程实用性。
 
 # 主要特点（创新点）
 
