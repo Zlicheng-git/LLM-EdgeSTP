@@ -1,0 +1,6 @@
+Python >= 3.10
+PyTorch >= 2.6.0+cu124
+Hugging Face Transformers >= 4.57
+Numpy >= 1.24
+Datasets >= 3.4.0
+Pandas >= 1.4.4
